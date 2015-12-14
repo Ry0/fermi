@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(fermi_sia20d_moveit_config)
+project(fermi_sia5d_moveit_config)
 
 find_package(catkin REQUIRED)
 
