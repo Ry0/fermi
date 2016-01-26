@@ -14,7 +14,7 @@ More documentation can be found in [README of moveit_cartesian_plan_plugin](http
 roslaunch fermi_sia5d_moveit_config moveit_planning_execution.launch
 ```
 
-# MZ07 MZ07
+# NACHI MZ07
 
 ![img](.image/mz07_image.png)
 
