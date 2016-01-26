@@ -9,3 +9,15 @@ More documentation can be found in [README of moveit_cartesian_plan_plugin](http
 # Motoman SIA5
 
 ![img](.image/sia5_image.png)
+
+```bash
+roslaunch fermi_sia5d_moveit_config moveit_planning_execution.launch
+```
+
+# MZ07 MZ07
+
+![img](.image/mz07_image.png)
+
+```bash
+roslaunch fermi_nachi_mz07_moveit_config moveit_planning_execution.launch
+```
